@@ -72,10 +72,11 @@ p{
 }
 
 div.scroll-container {
-  background-color: #333;
+  background-color: rgb(153, 112, 63);
   overflow: auto;
   white-space: nowrap;
   padding: 10px;
+  margin-top:50px;
 }
 
 div.scroll-container img {
