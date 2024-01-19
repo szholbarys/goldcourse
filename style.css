@@ -93,8 +93,9 @@ p{
     z-index: 1;
 }
 .fr{
-   display: flex;
+    display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
 .grid-item {
